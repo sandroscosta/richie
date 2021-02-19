@@ -12,6 +12,10 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Fix an issue about text selection on search input on Firefox
 
+### Added
+
+- Add a new authentication backend `fonzie`
+
 ## [2.2.0] - 2021-03-05
 
 ### Added
