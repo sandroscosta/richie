@@ -8,6 +8,10 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unrealeased]
 
+### Changed
+
+- Load components lazily in Root component
+
 ### Fixed
 
 - Fix an issue about text selection on search input on Firefox
