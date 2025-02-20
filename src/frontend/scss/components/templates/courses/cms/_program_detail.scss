@@ -88,7 +88,6 @@
 
   &__content {
     @include media-breakpoint-up(lg) {
-      //@include sv-flex(1, 0, #{100% - $r-program-aside});
       padding-right: 3rem;
     }
   }
